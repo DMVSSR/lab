@@ -1,7 +1,5 @@
 '''
-Created on 5/03/2013
-
-@author: Nick Wareing
+Edited
 '''
 
 import abc
